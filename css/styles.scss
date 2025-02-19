@@ -99,7 +99,7 @@ section{
 
 /*Controls*/
 .active-btn{
-  background-color: var(--color-secondary) !important;
+  background-color: var(--color-secondary);
   transition: var(--transition-1);
   i{
     color: var(--color-white) !important;
@@ -134,4 +134,3 @@ section{
     }
   }
 }
-
